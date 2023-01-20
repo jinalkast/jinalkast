@@ -64,4 +64,4 @@ Feel free to contact me on any of these platforms:
 [![](/insta.png)](https://www.instagram.com/jinal.k/)
 [![](/facebook.png)](https://www.facebook.com/jinal.kasturiarachchi/)
 
-Personal Website: 
+Personal Website: jinalk.netlify.app
