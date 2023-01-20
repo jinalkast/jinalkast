@@ -49,8 +49,8 @@ I have experience and feel comfortable working with these:
 
 I am always looking to improve and add onto my skills. Currently working on [JavaScript](https://www.udemy.com/course/the-complete-javascript-course/) and [React with Redux](https://www.udemy.com/course/react-redux/) courses!
 
+<br>
 ---
-<br><br>
 <!-- contacts -->
 <img align="right" src="/contact.png" width="200" height="200" /> 
 
