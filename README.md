@@ -37,7 +37,7 @@ I have experience and feel comfortable working with these:
 
 ---
 <!-- currently learning -->
-<img align="left" src="/readingonbook.PNG" width="200" height="200" /> 
+<img align="left" src="/learning.PNG" width="200" height="200" /> 
 
 ## Currently looking to learn 📚 ##
 
