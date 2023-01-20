@@ -48,7 +48,6 @@ I have experience and feel comfortable working with these:
 <br>
 <br>
 <br>
----
 <!-- contacts -->
 <img align="right" src="/contact.png" width="200" height="200" /> 
 
