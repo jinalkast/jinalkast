@@ -1,5 +1,5 @@
 <!-- intro -->
-<img align="left" src="/hello.PNG" width="200" height="200" /> 
+<img align="left" src="/hello.png" width="200" height="200" /> 
 
 # Welcome to my github! 👋 #
 
