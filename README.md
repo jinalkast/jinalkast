@@ -45,8 +45,6 @@ I have experience and feel comfortable working with these:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-<br>
-
 ---
 <!-- contacts -->
 <img align="right" src="/contact.png" width="200" height="200" /> 
