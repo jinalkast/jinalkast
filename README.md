@@ -14,7 +14,7 @@ const jinal = {
 ```
 ---
 <!-- what i know -->
-<img align="right" src="/readingcomfy.PNG" width="200" height="200" /> 
+<img align="right" src="/comfortable.png" width="200" height="200" /> 
 
 ## My Skills 🛠 ##
 
