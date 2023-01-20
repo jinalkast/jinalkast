@@ -1,7 +1,7 @@
 <!-- intro -->
 <img align="left" src="/hello.png" width="200" height="200" /> 
 
-# Welcome to my github! 👋 #
+# Welcome to my GitHub! 👋 #
 
 ```javascript
 const jinal = {
@@ -57,7 +57,7 @@ I am always looking to improve and add onto my skills. Currently working on [Jav
 
 ## Contact me 📬 ##
 
-feel free to contact me on any of these platforms:
+Feel free to contact me on any of these platforms:
 
 [![](/email.png)](mailto:jinalkast@gmail.com)
 [![](/linkedin.png)](https://www.linkedin.com/in/jinal-k/)
