@@ -6,7 +6,7 @@
 ```javascript
 const jinal = {
   name: 'Jinal Kasturiarachchi',
-  age: 20,
+  age: 22,
   studying: 'Software Engineering',
   institution: 'McMaster University',
   interests: ['gym', 'reading', 'cooking', 'music', 'skating', 'volleyball'],
