@@ -1,7 +1,9 @@
 <!-- intro -->
-<img align="left" alt="Jinal's Avatar" src="/hello.png" width="200" height="200" /> 
+<h1>
+  Welcome to my GitHub! 👋
+</h1> 
 
-# Welcome to my GitHub! 👋 #
+<img align="left" alt="Jinal's Avatar" src="/hello.png" width="200" height="200" /> 
 
 ```javascript
 const jinal = {
@@ -9,6 +11,7 @@ const jinal = {
   age: 22,
   studying: 'Software Engineering',
   institution: 'McMaster University',
-  interests: ['gym', 'reading', 'cooking', 'music', 'skating', 'volleyball'],
+  graduating: 'Summer 2025',
+  interests: ['volleyball', 'travel', 'gym', 'books', 'skiing'],
 };
 ```
