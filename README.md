@@ -1,5 +1,5 @@
 <!-- intro -->
-<img align="left" src="/hello.png" width="200" height="200" /> 
+<img align="left" alt="Jinal's Avatar" src="/hello.png" width="200" height="200" /> 
 
 # Welcome to my GitHub! 👋 #
 
@@ -12,4 +12,3 @@ const jinal = {
   interests: ['gym', 'reading', 'cooking', 'music', 'skating', 'volleyball'],
 };
 ```
----
